@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow - Sistem Manajemen Keuangan",
+  "description": "A comprehensive financial management system for tracking income and expenses with detailed categorization, data visualization, and export capabilities to PDF and Excel.",
+  "requestFramePermissions": []
+}
